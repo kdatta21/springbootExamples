@@ -1,5 +1,5 @@
-com\demo\maven\project\Application.class
 controller\GreetingController.class
 model\Student.class
+com\demo\maven\project\HelloController.class
 model\Greeting.class
 controller\StudentController.class
